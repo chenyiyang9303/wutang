@@ -152,7 +152,7 @@ export default function Home() {
                 <div className="p-4 flex flex-col h-full">
                   <div className="flex-shrink-0 mb-4">
                     <Image
-                      src={`/avatars/RZA.webp`}
+                      src={`/avatars/rza.webp`}
                       alt="RZA"
                       height="400"
                       width="400"
@@ -173,7 +173,7 @@ export default function Home() {
                 <div className="p-4 flex flex-col h-full">
                   <div className="flex-shrink-0 mb-4">
                     <Image
-                      src={`/avatars/GZA.webp`}
+                      src={`/avatars/gza.webp`}
                       alt="GZA"
                       height="400"
                       width="400"
@@ -235,7 +235,7 @@ export default function Home() {
                 <div className="p-4 flex flex-col h-full">
                   <div className="flex-shrink-0 mb-4">
                     <Image
-                      src={`/avatars/Ghostface-killah.webp`}
+                      src={`/avatars/ghostface-killah.webp`}
                       alt="Ghostface Killah"
                       height="400"
                       width="400"
