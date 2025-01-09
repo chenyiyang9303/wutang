@@ -10,6 +10,9 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Wu Tang Name Generator",
   description: "Get your personalized Wu-Tang name in seconds! Inspired by the legendary Wu-Tang Clan, this generator combines style, creativity, and a touch of martial arts mystique.",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({

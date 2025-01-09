@@ -12,6 +12,7 @@ import { Background } from './components/ui/background';
 import { BackgroundGradient } from './components/ui/background-gradient';
 import Image from 'next/image';
 import { FormData, GeneratedName } from './types';
+import Partnerlink from './components/Partnerlink';
 
 export default function Home() {
   const [generatedNames, setGeneratedNames] = useState<GeneratedName[]>([]);
@@ -357,10 +358,10 @@ export default function Home() {
               </BackgroundGradient>
             </div>
           </section>
-
-          <FAQ />
+          <FAQ type="wutang" />
         </div>
       </main>
+      <Partnerlink />
       <Footer />
     </div>
   );
