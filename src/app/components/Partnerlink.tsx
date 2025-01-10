@@ -27,6 +27,10 @@ const partners = [
     name: "RightAI Tools Directory",
     url: "https://right-ai.com/"
   }
+  {
+    name: "Sprunked",
+    url: "https://sprunked.dev"
+  }
 ];
 
 export default function Partnerlink() {
