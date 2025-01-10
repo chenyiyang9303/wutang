@@ -18,6 +18,10 @@ const partners = [
   {
     name: "AI Tool Center",
     url: "https://aitoolcenter.com/"
+  },
+  {
+    name: "ai-toolify",
+    url: "https://ai-toolify.com/"
   }
 ];
 
