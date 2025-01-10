@@ -26,10 +26,26 @@ const partners = [
   {
     name: "RightAI Tools Directory",
     url: "https://right-ai.com/"
-  }
+  },
   {
     name: "Sprunked",
     url: "https://sprunked.dev"
+  },
+  {
+    name: "ForIT AI",
+    url: "https://forit.ai"
+  },
+  {
+    name: "What Is Ai Tools",
+    url: "https://whatisaitools.com/"
+  },
+  {
+    name: "AIMonstr",
+    url: "https://www.aimonstr.com"
+  },
+  {
+    name: "YP for AI Tools Directory",
+    url: "https://ypforai.com"
   }
 ];
 
