@@ -22,6 +22,10 @@ const partners = [
   {
     name: "ai-toolify",
     url: "https://ai-toolify.com/"
+  },
+  {
+    name: "RightAI Tools Directory",
+    url: "https://right-ai.com/"
   }
 ];
 
