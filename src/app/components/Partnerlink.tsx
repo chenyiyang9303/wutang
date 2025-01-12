@@ -50,6 +50,14 @@ const partners = [
   {
     name: "AIStage",
     url: "https://aistage.net"
+  },
+  {
+    name: "Quick Tools Diresctory",
+    url: "https://quicktools.ai/"
+  },
+  {
+    name: "AI NavHub Tools Directory",
+    url: "https://www.ainavhub.com/"
   }
 ];
 
