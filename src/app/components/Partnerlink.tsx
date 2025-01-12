@@ -46,6 +46,10 @@ const partners = [
   {
     name: "YP for AI Tools Directory",
     url: "https://ypforai.com"
+  },
+  {
+    name: "AIStage",
+    url: "https://aistage.net"
   }
 ];
 
